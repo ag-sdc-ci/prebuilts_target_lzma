@@ -1,0 +1,19 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_liblzma-x86_64-v2.so.so",
+		    "libdummy_binary_liblzma.a-x86_64-v2.so",
+		    "libdummy_binary_liblzma.a.so",
+		    "libdummy_binary_liblzma.so.so",
+		    "libdummy_ext_lzma-x86_64-v2.so",
+		    "libdummy_ext_lzma.so",
+		    "libdummy_headers_ext_lzma-x86_64-v2.so",
+		    "libdummy_headers_ext_lzma.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
